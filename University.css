@@ -1,0 +1,22 @@
+body{
+	background-color: pink;
+	background-image:url("/home/qwinix/Documents/Varshu/Images/Australia_Houses_Adelaide_University_Lawn_Clouds_517361_1366x768.jpg");
+}
+h1{
+	color:lime;
+	text-align: center;
+}
+.sidenav
+{
+	height: 100%;
+	width:0%;
+	position:fixed;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-left: 40px;
+
+
+
+}
+
+	
